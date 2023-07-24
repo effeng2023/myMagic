@@ -258,6 +258,7 @@
 }
 .ms-ctn .ms-sel-ctn {
     margin-left: -7px;
+    display: none;
 }
 .ms-ctn .ms-trigger:hover {
     width:24px;
